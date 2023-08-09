@@ -1,0 +1,20 @@
+# Dependency directory (contains installed packages)
+node_modules/
+
+# Environment variables (contains sensitive information like API keys)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+*.sublime-*
+*.DS_Store
+
+# Build/compiled files
+dist/
